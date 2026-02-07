@@ -1,2 +1,3 @@
 This is new file I have created
 This is about git gui 
+i am adding a new line in this
