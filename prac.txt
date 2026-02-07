@@ -1,0 +1,2 @@
+This is new file I have created
+This is about git gui 
